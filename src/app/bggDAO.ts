@@ -1,4 +1,4 @@
-export const getLoggedPlays = (username: string) => {
+export const getLoggedPlays = (username: string): PlayLog[] => {
 
 }
 
