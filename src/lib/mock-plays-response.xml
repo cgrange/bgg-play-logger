@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plays username="gamebrigade" userid="2657275" total="509" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+    <play id="98739644" date="2025-05-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Cyclades: Legendary Edition" objecttype="thing" objectid="380619">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="cgrange" userid="3728588" name="C." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="97746880" date="2025-04-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Nippon: Zaibatsu" objecttype="thing" objectid="434367">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="" userid="0" name="J." startposition="" color="" score="189" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="290" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="195" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="T." startposition="" color="" score="197" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="97529059" date="2025-04-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Dune: Imperium – Uprising" objecttype="thing" objectid="397598">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameintegration"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="16" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="9" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="K." startposition="" color="" score="8" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="7" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="97100694" date="2025-03-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="UNO" objecttype="thing" objectid="2223">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameintegration"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="" userid="0" name="A." startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="97100590" date="2025-03-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="UNO" objecttype="thing" objectid="2223">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameintegration"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="" userid="0" name="A." startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="97100483" date="2025-03-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="UNO" objecttype="thing" objectid="2223">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameintegration"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="" userid="0" name="A." startposition="" color="" score="" new="1" rating="0" win="1"/>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="97075543" date="2025-03-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Cyclades" objecttype="thing" objectid="54998">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="96919236" date="2025-03-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Black Orchestra" objecttype="thing" objectid="156858">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="K." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="T." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="96920906" date="2025-03-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Ra" objecttype="thing" objectid="12">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="54" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="37" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="T." startposition="" color="" score="38" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="96800789" date="2025-03-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Valkyrie: A Black Orchestra Game" objecttype="thing" objectid="432146">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="95741450" date="2025-02-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Dune: Imperium – Uprising" objecttype="thing" objectid="397598">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameintegration"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="12" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="6" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="8" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="R." startposition="" color="" score="6" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="95742109" date="2025-02-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Incan Gold" objecttype="thing" objectid="15512">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="49" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="55" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="71" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="R." startposition="" color="" score="28" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="95017919" date="2025-02-05" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Ra" objecttype="thing" objectid="12">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="34" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="30" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="64" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="95017044" date="2025-02-05" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Tyrants of the Underdark: Board Game" objecttype="thing" objectid="336847">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgamecompilation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="69" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="56" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="75" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="94527453" date="2025-01-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+        <item name="Andromeda&#039;s Edge" objecttype="thing" objectid="358661">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+    </play>
+    <play id="94395381" date="2025-01-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Clash of Cultures: Monumental Edition" objecttype="thing" objectid="299659">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="48" new="0" rating="0" win="1"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="30" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="44.5" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="24" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="94314646" date="2025-01-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Dr. Seuss: Merry Grinchmas! Game" objecttype="thing" objectid="345637">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="" userid="0" name="A." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="94208350" date="2025-01-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Shards of Infinity: Saga Collection" objecttype="thing" objectid="393871">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgamecompilation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="D." startposition="" color="" score="" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="D." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="94064066" date="2025-01-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Shards of Infinity: Saga Collection" objecttype="thing" objectid="393871">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgamecompilation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="94064065" date="2025-01-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Shards of Infinity: Saga Collection" objecttype="thing" objectid="393871">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgamecompilation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="93886643" date="2025-01-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Axis &amp; Allies Anniversary Edition" objecttype="thing" objectid="35052">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="Team 1" score="" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="D." startposition="" color="Team 1" score="" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="Team 2" score="" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="Team 2" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="Team 2" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="S." startposition="" color="Team 1" score="" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="93719186" date="2025-01-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Wonderland&#039;s War" objecttype="thing" objectid="227935">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="79" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="55" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="77" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="55" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="56" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="93521779" date="2025-01-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Kemet: Blood and Sand" objecttype="thing" objectid="297562">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="9" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="8" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="10" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="14" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="2" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="93317242" date="2025-01-02" quantity="3" length="0" incomplete="0" nowinstats="0" location="">
+        <item name="Earth Under Siege: Flashpoint" objecttype="thing" objectid="337973">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+    </play>
+    <play id="93317238" date="2025-01-02" quantity="2" length="0" incomplete="0" nowinstats="0" location="">
+        <item name="Earth Under Siege: Flashpoint" objecttype="thing" objectid="337973">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+    </play>
+    <play id="92976481" date="2024-12-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Rebirth" objecttype="thing" objectid="417197">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="158" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="172" new="1" rating="0" win="1"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="165" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="92976495" date="2024-12-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Thunder Road: Vendetta – Maximum Chrome" objecttype="thing" objectid="355997">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgamecompilation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="" new="1" rating="0" win="1"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="91982975" date="2024-12-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Inis" objecttype="thing" objectid="155821">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="R." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="91229421" date="2024-11-14" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Song for War: Mediterranean Theater" objecttype="thing" objectid="315333">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="90690689" date="2024-10-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Andromeda&#039;s Edge" objecttype="thing" objectid="358661">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="71" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="53" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="124" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="90630440" date="2024-10-29" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Tend" objecttype="thing" objectid="427388">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="101" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="119" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="90038022" date="2024-10-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Mosaic: A Story of Civilization" objecttype="thing" objectid="329551">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <comments>Played with expansions:
+- [thing=371704]Mosaic: Wars and Disasters[/thing]</comments>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="58" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="70" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="149" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="143" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="T." startposition="" color="" score="25" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="89783804" date="2024-10-05" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Fabled: The Spirit Lands" objecttype="thing" objectid="220452">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <comments>Played with expansions:
+- [thing=419733]Fabled: Eve of Times[/thing]</comments>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="8.1" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="9" new="0" rating="0" win="1"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="8" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="5" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="89663104" date="2024-10-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Fabled: The Spirit Lands" objecttype="thing" objectid="220452">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="4" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="4.1" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="4.1" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="5" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="89095928" date="2024-09-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Brass: Birmingham" objecttype="thing" objectid="224517">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="128" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="129" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="108" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="R." startposition="" color="" score="100" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="89092172" date="2024-09-14" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Blood Rage" objecttype="thing" objectid="170216">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="65" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="103" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="128" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="106" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="R." startposition="" color="" score="162" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="88869861" date="2024-09-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Brass: Birmingham" objecttype="thing" objectid="224517">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="120" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="114" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="96" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="100" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="88622956" date="2024-08-31" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Brass: Birmingham" objecttype="thing" objectid="224517">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="92" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="D." startposition="" color="" score="78" new="1" rating="0" win="0"/>
+            <player username="Leperchan5" userid="312785" name="J." startposition="" color="" score="86" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="89" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="87852982" date="2024-08-10" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Kemet: Blood and Sand" objecttype="thing" objectid="297562">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="4" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="6" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="10" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="7" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="T." startposition="" color="" score="5" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="87776314" date="2024-08-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Arcs" objecttype="thing" objectid="359871">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="16" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="D." startposition="" color="" score="18" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="21" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="30" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="87607513" date="2024-08-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Kemet: Blood and Sand" objecttype="thing" objectid="297562">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="10" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="9" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="9" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="9" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="T." startposition="" color="" score="7" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="87525028" date="2024-08-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Arcs" objecttype="thing" objectid="359871">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="13" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="10" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="31" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="18" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="87236766" date="2024-07-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Arcs" objecttype="thing" objectid="359871">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="37" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="30" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="17" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="87128579" date="2024-07-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="DC Super Heroes United" objecttype="thing" objectid="418762">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameintegration"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="87082693" date="2024-07-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="DC Super Heroes United" objecttype="thing" objectid="418762">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameintegration"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="86972477" date="2024-07-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Amun-Re: 20th Anniversary Edition" objecttype="thing" objectid="354568">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="" userid="0" name="A." startposition="" color="" score="56" new="1" rating="0" win="0"/>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="37" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="59" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="42" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="31" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="86969787" date="2024-07-17" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Isle of Skye: Big Box" objecttype="thing" objectid="369258">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgamecompilation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="" userid="0" name="A." startposition="" color="" score="91" new="1" rating="0" win="1"/>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="71" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="81" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="54" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="58" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="86733503" date="2024-07-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Luthier" objecttype="thing" objectid="371330">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="112" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="78" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="95" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="86335241" date="2024-06-29" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Alien Frontiers" objecttype="thing" objectid="48726">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="6" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="10" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="13" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="86335063" date="2024-06-29" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="The Wolves" objecttype="thing" objectid="368058">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="37" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="61" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="57" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="85878122" date="2024-06-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Dune: Imperium – Uprising" objecttype="thing" objectid="397598">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameintegration"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="5" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="10" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="6" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="8" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="85270651" date="2024-05-29" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Kemet: Blood and Sand" objecttype="thing" objectid="297562">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="" userid="0" name="A." startposition="" color="" score="9" new="0" rating="0" win="0"/>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="8" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="11" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="N." startposition="" color="" score="9" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="10" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="85126065" date="2024-05-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Dune: Imperium – Uprising" objecttype="thing" objectid="397598">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameintegration"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="12" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="8" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="10" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="12" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="84883476" date="2024-05-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Dune: Imperium – Uprising" objecttype="thing" objectid="397598">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameintegration"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="16" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="D." startposition="" color="" score="7" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="11" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="11" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="84546932" date="2024-05-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Tyrants of the Underdark: Board Game" objecttype="thing" objectid="336847">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgamecompilation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="82" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="85" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="74" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="84297391" date="2024-05-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Fractured Sky" objecttype="thing" objectid="370581">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="6" new="0" rating="0" win="0"/>
+            <player username="Jadyx975" userid="2155848" name="J." startposition="" color="" score="4" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="5" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="7" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="3" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="83756139" date="2024-04-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Euthia: Torment of Resurrection" objecttype="thing" objectid="295785">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="35" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="28" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="83562951" date="2024-04-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Tyrants of the Underdark: Board Game" objecttype="thing" objectid="336847">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgamecompilation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="101" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="D." startposition="" color="" score="89" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="126" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="83561183" date="2024-04-10" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Fractured Sky" objecttype="thing" objectid="370581">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="6" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="D." startposition="" color="" score="5" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="3" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="11" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="83559050" date="2024-04-10" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Ra" objecttype="thing" objectid="12">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="76" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="D." startposition="" color="" score="29" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="27" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="83434110" date="2024-04-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Foundations of Rome" objecttype="thing" objectid="284189">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="79" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="69" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="86" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="100" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="83337693" date="2024-04-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Marvel Champions: The Card Game" objecttype="thing" objectid="285774">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <comments>Played with expansions:
+- [thing=374986]Marvel Champions: The Card Game – Rogue Hero Pack[/thing]</comments>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="83337663" date="2024-04-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Star Wars: Unlimited" objecttype="thing" objectid="387866">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="83157644" date="2024-03-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Moonrakers" objecttype="thing" objectid="270239">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <comments>Played with expansions:
+- [thing=366452]Moonrakers: Nomad[/thing]
+- [thing=366451]Moonrakers: Overload[/thing]</comments>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="10" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="G." startposition="" color="" score="9" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="7" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="K." startposition="" color="" score="6" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="5" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="83096229" date="2024-03-29" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Marvel Champions: The Card Game" objecttype="thing" objectid="285774">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="83055100" date="2024-03-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="QE" objecttype="thing" objectid="266830">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="6" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="D." startposition="" color="" score="28" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="49" new="0" rating="0" win="1"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="45" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="6" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="82769968" date="2024-03-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Endless Winter: Paleoamericans" objecttype="thing" objectid="305096">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <comments>Played with expansions:
+- [thing=323060]Endless Winter: Ancestors[/thing]
+- [thing=323056]Endless Winter: Rivers &amp;amp; Rafts[/thing]</comments>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="102" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="86" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="82" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="82629165" date="2024-03-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Caesar&#039;s Empire" objecttype="thing" objectid="341496">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="123" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="132" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="127" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="82630445" date="2024-03-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="QE" objecttype="thing" objectid="266830">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="26" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="25" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="0" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="82126879" date="2024-03-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Blood on the Clocktower" objecttype="thing" objectid="240980">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="Team 1" score="" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="T." startposition="" color="Team 2" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="T." startposition="" color="Team 1" score="" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="82123368" date="2024-03-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Blood on the Clocktower" objecttype="thing" objectid="240980">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="" userid="0" name="A." startposition="" color="Team 2" score="" new="1" rating="0" win="0"/>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="Team 1" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="T." startposition="" color="Team 1" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="T." startposition="" color="Team 2" score="" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="82114602" date="2024-03-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Star Wars: Unlimited" objecttype="thing" objectid="387866">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="82114595" date="2024-03-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Star Wars: Unlimited" objecttype="thing" objectid="387866">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="82114583" date="2024-03-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Star Wars: Unlimited" objecttype="thing" objectid="387866">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="81859096" date="2024-02-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Blood on the Clocktower" objecttype="thing" objectid="240980">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="Team 1" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="T." startposition="" color="Team 1" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="T." startposition="" color="Team 2" score="" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="81762765" date="2024-02-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Detective: City of Angels" objecttype="thing" objectid="218074">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="Team 1" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="G." startposition="" color="Team 4" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="Team 2" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="T." startposition="" color="Team 3" score="" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="81525055" date="2024-02-17" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Detective: City of Angels" objecttype="thing" objectid="218074">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="Team 1" score="" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="Team 2" score="" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="81579651" date="2024-02-17" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Ostia" objecttype="thing" objectid="347767">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <comments>Played with expansions:
+- [thing=377814]Ostia: Merchant Expansion[/thing]
+- [thing=408895]Ostia: Pirates Expansion[/thing]</comments>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="269" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="130" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="331" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="197" new="0" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="81486694" date="2024-02-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Ostia" objecttype="thing" objectid="347767">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="106" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="56" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="126" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="89" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="81308962" date="2024-02-10" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Brass: Birmingham" objecttype="thing" objectid="224517">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="141" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="139" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="T." startposition="" color="" score="128" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="81308959" date="2024-02-10" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Brass: Birmingham" objecttype="thing" objectid="224517">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="141" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="139" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="T." startposition="" color="" score="120" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="81217207" date="2024-02-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Oathsworn: Into the Deepwood" objecttype="thing" objectid="251661">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="81217206" date="2024-02-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Oathsworn: Into the Deepwood" objecttype="thing" objectid="251661">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="81217205" date="2024-02-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Oathsworn: Into the Deepwood" objecttype="thing" objectid="251661">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="81217204" date="2024-02-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Oathsworn: Into the Deepwood" objecttype="thing" objectid="251661">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="81217201" date="2024-02-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Oathsworn: Into the Deepwood" objecttype="thing" objectid="251661">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="81217200" date="2024-02-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Oathsworn: Into the Deepwood" objecttype="thing" objectid="251661">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="81185684" date="2024-02-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Deadly Dowagers" objecttype="thing" objectid="381790">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="81185697" date="2024-02-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Veiled Fate" objecttype="thing" objectid="315695">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="Team 1" score="" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="G." startposition="" color="Team 2" score="" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="Team 1" score="" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="Team 2" score="" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="Team 3" score="" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="S." startposition="" color="Team 3" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="81039434" date="2024-02-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Deadly Dowagers" objecttype="thing" objectid="381790">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="" new="1" rating="0" win="1"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="81036583" date="2024-02-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Expeditions" objecttype="thing" objectid="379078">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="64" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="47" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="69" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="80972441" date="2024-02-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Oathsworn: Into the Deepwood" objecttype="thing" objectid="251661">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="80905964" date="2024-01-31" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Blood on the Clocktower" objecttype="thing" objectid="240980">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="Team 1" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="T." startposition="" color="Team 2" score="" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="T." startposition="" color="Team 1" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="80905958" date="2024-01-31" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Expeditions" objecttype="thing" objectid="379078">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="" userid="0" name="A." startposition="" color="" score="75" new="1" rating="0" win="1"/>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="57" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="42" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="80763478" date="2024-01-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Red Rising" objecttype="thing" objectid="329465">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="" userid="0" name="A." startposition="" color="" score="218" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="B." startposition="" color="" score="143" new="1" rating="0" win="0"/>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="164" new="0" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="224" new="0" rating="0" win="1"/>
+            <player username="Drew9780" userid="2561620" name="T." startposition="" color="" score="205" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="80631996" date="2024-01-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Clash of Cultures: Monumental Edition" objecttype="thing" objectid="299659">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="40.5" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="32" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="35.5" new="0" rating="0" win="0"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="36.5" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="80480591" date="2024-01-21" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Clash of Cultures: Monumental Edition" objecttype="thing" objectid="299659">
+            <subtypes>
+                <subtype value="boardgame"/>
+                <subtype value="boardgameimplementation"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="39" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="J." startposition="" color="" score="8" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="45" new="1" rating="0" win="0"/>
+            <player username="" userid="0" name="M." startposition="" color="" score="48" new="1" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="80464635" date="2024-01-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Oathsworn: Into the Deepwood" objecttype="thing" objectid="251661">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="0" rating="0" win="1"/>
+            <player username="" userid="0" name="S." startposition="" color="" score="" new="0" rating="0" win="1"/>
+        </players>
+    </play>
+    <play id="80342173" date="2024-01-17" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="Alien Frontiers" objecttype="thing" objectid="48726">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="5" new="1" rating="0" win="0"/>
+            <player username="Jadyx975" userid="2155848" name="J." startposition="" color="" score="9" new="1" rating="0" win="1"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="5" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+    <play id="80341168" date="2024-01-17" quantity="1" length="0" incomplete="0" nowinstats="0" location="Game Brigade Studios">
+        <item name="The Legends of Andor: The Eternal Frost" objecttype="thing" objectid="363086">
+            <subtypes>
+                <subtype value="boardgame"/>
+            </subtypes>
+        </item>
+        <players>
+            <player username="GameBrigade" userid="2657275" name="Bryan Greer" startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="Jadyx975" userid="2155848" name="J." startposition="" color="" score="" new="1" rating="0" win="0"/>
+            <player username="kjbds1" userid="2951663" name="L." startposition="" color="" score="" new="1" rating="0" win="0"/>
+        </players>
+    </play>
+</plays>
